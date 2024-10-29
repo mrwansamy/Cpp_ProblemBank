@@ -1,0 +1,4 @@
+﻿  problem 9.cpp
+C:\Users\rwnsa\CODES\CODES\CppProblemBank\problem 9\problem 9\problem 9.cpp(21,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\rwnsa\CODES\CODES\CppProblemBank\problem 9\problem 9\problem 9.cpp(22,12): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  problem 9.vcxproj -> C:\Users\rwnsa\CODES\CODES\CppProblemBank\problem 9\problem 9\x64\Debug\problem 9.exe
